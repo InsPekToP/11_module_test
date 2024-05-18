@@ -21,7 +21,7 @@ This text is <em><strong>really important</strong></em>
 >
 >> The Witch bade her clean the pots and kettles and sweep the floor and keep the fire fed with wood.
 
-![ava_test_bot](C:\Users\МИХАИЛ\Desktop\Полезные ссылки\Картинки\ava_test_bot.jpg)
+![ava_test_bot](E:\Проги\VSCode\Proects\11_module\lessons\ava_test_bot.jpg)
 
 <https://www.markdownguide.org>
 <fake@example.com>
